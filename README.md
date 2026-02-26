@@ -41,5 +41,6 @@ It also consists of a QR Code Scanner that triggers the user's camera and scans 
 5. Open http://localhost:5173 to view the app.
 
 ## Current bug 🐞  
-"Add to Contact" feature for scanned QR Code containing mobile numbers is still under debugging/development.
+"Add to Contact" feature for scanned QR Code containing mobile numbers is not functioning properly and still under debugging/development.
+
 
