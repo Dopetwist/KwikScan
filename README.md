@@ -43,4 +43,5 @@ It also consists of a QR Code Scanner that triggers the user's camera and scans 
 ## Current bug 🐞  
 "Add to Contact" feature for scanned QR Code containing mobile numbers is not functioning properly and still under debugging/development.
 
-
+## Contributions 🤝  
+All collaborations and improvements are welcome.
